@@ -11,7 +11,13 @@ To write a Python program that checks if the element `'n'` and the element `8` e
 
 ## 🧾 Program
 Add code here
+x = ('a', 'n', 5, 8, 'z')
 
+print('n' in x)
+
+print(8 in x)
 ## Output
+<img width="192" height="154" alt="Screenshot 2026-03-25 091745" src="https://github.com/user-attachments/assets/3d9ca8b6-4da4-43f6-9f0e-bdf79509a327" />
 
 ## Result
+program executed successfully
